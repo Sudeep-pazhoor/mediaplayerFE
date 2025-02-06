@@ -11,7 +11,7 @@ function Landing() {
           <Col className='d-flex justify-content-center flex-column p-3'>
             <h1 className='text-success'>Retro_mp4</h1>
             <p style={{ textAlign: 'justify' ,}} className='text-light'>Retro_mp4 is a dynamic platform designed to bring you the latest and most engaging video content and playlists. Curated and fully managed by @sudeep_pazhoor,
-              it ensures a premium viewing experience with a commitment to originality and creativity. With all copyrights exclusively owned, AppapZ_mp4 is a trusted hub for updated content, offering a perfect blend of entertainment and innovation.
+              it ensures a premium viewing experience with a commitment to originality and creativity. With all copyrights exclusively owned, Retro_mp4 is a trusted hub for updated content, offering a perfect blend of entertainment and innovation.
               Dive into a world of captivating videos crafted to keep you inspired and entertained!
             </p>
             <Link className='btn btn-success text-light bg-success' to={'/log'}>Login</Link>
